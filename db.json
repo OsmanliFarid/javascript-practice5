@@ -1,0 +1,224 @@
+{
+  "quiz": [
+    {
+      "id": "1",
+      "question": "HTML nə üçün istifadə olunur?",
+      "options": {
+        "A": "Proqram yazmaq üçün",
+        "B": "Verilənlər bazası yaratmaq üçün",
+        "C": "Veb səhifənin strukturunu yaratmaq üçün",
+        "D": "Mobil tətbiqlər üçün"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "2",
+      "question": "HTML-in tam açılışı nədir?",
+      "options": {
+        "A": "HyperText Main Language",
+        "B": "High Transfer Markup Language",
+        "C": "HyperText Markup Language",
+        "D": "Hyper Transfer Meta Language"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "3",
+      "question": "Şəkil göstərmək üçün hansı HTML elementi istifadə olunur?",
+      "options": {
+        "A": "picture",
+        "B": "img",
+        "C": "image",
+        "D": "src"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "4",
+      "question": "Keçid (link) yaratmaq üçün hansı elementdən istifadə olunur?",
+      "options": {
+        "A": "link",
+        "B": "goto",
+        "C": "a",
+        "D": "href"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "5",
+      "question": "Başlıq elementləri hansılardır?",
+      "options": {
+        "A": "b1 - b6",
+        "B": "head1 - head6",
+        "C": "h1 - h6",
+        "D": "header1 - header6"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "6",
+      "question": "Siyahı yaratmaq üçün hansı element istifadə olunur?",
+      "options": {
+        "A": "list",
+        "B": "ul, ol, li",
+        "C": "ol, ul, item",
+        "D": "ulist, olist, li"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "7",
+      "question": "Form yaratmaq üçün hansı element istifadə olunur?",
+      "options": {
+        "A": "input",
+        "B": "field",
+        "C": "form",
+        "D": "submit"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "8",
+      "question": "Input elementi üçün email tipi necə yazılır?",
+      "options": {
+        "A": "input type='mail'",
+        "B": "input type='email'",
+        "C": "input email",
+        "D": "email input"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "9",
+      "question": "br elementi nə üçündür?",
+      "options": {
+        "A": "Qalın mətndə istifadə olunur",
+        "B": "Yeni səhifə açmaq üçün",
+        "C": "Sətirdə boşluq qoymaq üçün",
+        "D": "Yeni sətrə keçmək üçün"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "10",
+      "question": "alt atributu nə üçündür?",
+      "options": {
+        "A": "Şəklin ölçüsünü dəyişmək üçün",
+        "B": "Alternativ mətn göstərmək üçün",
+        "C": "Link əlavə etmək üçün",
+        "D": "Şəklin yerini dəyişmək üçün"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "11",
+      "question": "CSS nə üçün istifadə olunur?",
+      "options": {
+        "A": "Cədvəl yaratmaq üçün",
+        "B": "Saytın dizaynını tənzimləmək üçün",
+        "C": "JavaScript funksiyası yazmaq üçün",
+        "D": "HTML faylı yaratmaq üçün"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "12",
+      "question": "CSS-in tam açılışı nədir?",
+      "options": {
+        "A": "Common Style Sheets",
+        "B": "Cascading Style Sheets",
+        "C": "Computer Styled Scripts",
+        "D": "Complex Style Syntax"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "13",
+      "question": "Elementi qırmızı rəngə boyamaq üçün hansı yazılış doğrudur?",
+      "options": {
+        "A": "background: red;",
+        "B": "text-color: red;",
+        "C": "color: red;",
+        "D": "font-color: red;"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "14",
+      "question": "Class seçicisi CSS-də necə yazılır?",
+      "options": {
+        "A": "#classAdi {}",
+        "B": ".classAdi {}",
+        "C": "class: classAdi {}",
+        "D": "<.classAdi> {}"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "15",
+      "question": "ID seçicisi CSS-də necə yazılır?",
+      "options": {
+        "A": ".idAdi {}",
+        "B": "id=idAdi {}",
+        "C": "#idAdi {}",
+        "D": "<idAdi> {}"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "16",
+      "question": "Mətnin mərkəzə gəlməsi üçün hansı istifadə olunur?",
+      "options": {
+        "A": "text-center: true;",
+        "B": "margin: auto;",
+        "C": "text-align: center;",
+        "D": "align: center;"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "17",
+      "question": "Fon rəngini dəyişmək üçün hansı property istifadə olunur?",
+      "options": {
+        "A": "color-background",
+        "B": "bgcolor",
+        "C": "background-color",
+        "D": "fill-color"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "18",
+      "question": "CSS faylını HTML-ə necə qoşmaq olar?",
+      "options": {
+        "A": "style src='style.css'",
+        "B": "stylesheet href='style.css'",
+        "C": "link rel='stylesheet' href='style.css'",
+        "D": "css src='style.css'"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "19",
+      "question": "Padding nəyi ifadə edir?",
+      "options": {
+        "A": "Xarici boşluq",
+        "B": "Elementin iç boşluğu",
+        "C": "Çərçivənin qalınlığı",
+        "D": "Mətni dəyişmək"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "20",
+      "question": "Border nə üçündür?",
+      "options": {
+        "A": "Arxa fon əlavə etmək üçün",
+        "B": "Elementin içində şəkil yerləşdirmək üçün",
+        "C": "Elementə kölgə vermək üçün",
+        "D": "Elementin ətrafına çərçivə çəkmək üçün"
+      },
+      "answer": "D"
+    }
+  ]
+}
